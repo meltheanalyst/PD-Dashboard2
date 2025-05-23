@@ -6,3 +6,4 @@ reportlab==4.2.2
 requests==2.32.3
 kaleido==0.2.1
 python-dotenv
+scikit-learn
